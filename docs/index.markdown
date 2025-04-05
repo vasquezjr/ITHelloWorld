@@ -26,6 +26,9 @@ This is `cool`
   }
 ```
 ## Test
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+ - [x] Write the press release
+ - [ ] Update the website
+ - [ ] Contact the media
+  - [ ] Contact the media
+
+![Testing Images!] (/assets/images/test.png "Test")
